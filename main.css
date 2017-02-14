@@ -1,0 +1,125 @@
+.listitem { 
+color:blue; 
+font-size:18px}
+.paragraph{
+color:blue;
+font-size:2.5em;
+}
+
+#background {
+background-color:pink
+;
+height: 2048px;
+}
+
+
+#button {
+width:300px;
+height:150px;
+color:white;
+background-color:black;
+border-radius:15px;
+}
+
+header {
+height:50px;
+width:99%;
+border:2px solid black;
+background-color:#FF9933;
+margin-bottom:5em;
+}
+
+footer {
+height:50px;
+width:99%;
+border:2px solid black;
+background-color:#FF9933;
+}
+
+.wrap-trivia {
+height:200px;
+width:450px;
+border:5px double yellow;
+padding-left:50px;
+}
+
+.wrap-list {
+height:250px;
+width:450px;
+border:5px dashed green;
+}
+
+.wrap-text {
+color: #ff28e0;
+font-size: 2.1em;
+}
+
+#one{
+height: 150px;
+width: 150px;
+background-color: red;
+display:inline-block;
+position: absolute;
+z-index: 1;
+}
+
+#two{
+height: 150px;
+width: 150px;
+background-color: blue;
+display: inline-block;
+position: absolute;
+z-index: 2;
+top: 750px;
+}
+
+#three{
+height: 150px;
+width: 150px;
+background-color: green;
+display: inline-block;
+position: fixed;
+ left: 25%
+}
+
+#yeeeah{
+height: 2048px;
+}
+
+.navitem {
+list-style-type:none;
+display:inline;
+padding-right:1.5em;
+
+}
+
+#navmenu {
+width:250px;
+height:55px;
+margin:auto;
+border:5px dashed green;
+}
+
+.index.htmla:link{ 
+color:red;
+} 
+
+.games.htmla:visited{ 
+color:yellow;
+} 
+
+.videos.htmla:hover{ 
+color:purple;
+} 
+
+.http://simplycoding.orga:active{ 
+color:orange;
+}
+
+#rightside{float:right;
+	width:250px;
+	border:5px dashed orange;
+}
+
+#leftside{width:250px;
+border:5px dashed orange;}
